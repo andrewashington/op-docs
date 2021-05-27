@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://priceless-dijkstra-6a4923.netlify.app"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
