@@ -1,0 +1,57 @@
+# Meta Data for SEO
+
+## Homepage
+title = "OpDocs"
+titleSeparator = "-"
+titleAddition = "A sample business process documentation library"
+description = "OpDocs is a personal project where I store samples of busines process documentation as a reference for my peers."
+
+## Open Graph + Twitter Cards
+images = ["doks.png"]
+twitterSite = "henkverlinde"
+twitterCreator = "henkverlinde"
+facebookAuthor = "verlinde.henk"
+facebookPublisher = "verlinde.henk"
+ogLocale = "en_US"
+
+## JSON-LD
+schemaType = "Organization"
+schemaLogo = "logo-doks.png"
+schemaTwitter = "https://twitter.com/andrewash0"
+schemaLinkedIn = "https://www.linkedin.com/in/andre-washington-0b726589/"
+schemaSection = "blog"
+
+## Sitelinks Search Box
+siteLinksSearchBox = false
+
+## Chrome Browser
+themeColor = "#fff"
+
+# Images
+quality = 85
+bgColor = "#fff"
+landscapePhotoWidths = [900, 800, 700, 600, 500]
+portraitPhotoWidths = [800, 700, 600, 500]
+lqipWidth = "20x"
+
+# Footer
+footer = "Made with :heart: by Andre Washington"
+
+# Alert
+alert = false
+alertText = "Like Doks? <a class=\"alert-link\" href=\"https://github.com/h-enk/doks/stargazers\">Star on GitHub</a>. Thanks!</a>"
+
+# Edit Page
+docsRepo = "https://github.com/h-enk/doks"
+editPage = false
+
+[options]
+  lazySizes = true
+  clipBoard = true
+  instantPage = true
+  flexSearch = true
+  darkMode = true
+  bootStrapJs = false
+  breadCrumb = false
+  highLight = true
+  kaTex = false
