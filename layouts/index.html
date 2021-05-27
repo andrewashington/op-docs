@@ -1,5 +1,6 @@
 {{ define "main" }}
-<script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+<meta http-equiv="Content-Security-Policy" content="default-src 'self' https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js">
+<script src 'self' https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js></script>
 <script>mermaid.initialize({ startOnLoad: true, securityLevel: 'loose'})</script>
 
 <section class="section container-fluid mt-n3 pb-3">
