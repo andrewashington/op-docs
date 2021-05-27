@@ -12,7 +12,7 @@ contributors: ["Andre Washington"]
 
 ## This site is free
 
-Well, not completely free -- but closer to free than most non-engineering documentation sites out there. 
+Well, not completely free -- but closer to free than most non-engineering documentation sites out there. If I make a very small change... 
 
 If you work in software, your product might have a documentation resource that looks a lot like this site. Engineering and API products are frequently make use of lightweight documentation resources like this one. 
 
