@@ -1,5 +1,5 @@
 ---
-title: "New Reseller Deal Process"
+title: "Reseller Process"
 description: "This page diagrams the process when a Reseller submits a new deal to OpDocs."
 lead: "This page describes both the process for adding new Resellers to our partner program, and what happens to Opportunities that are created from Reseller data."
 date: 2020-10-06T08:49:31+00:00

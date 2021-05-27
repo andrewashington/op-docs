@@ -1,6 +1,6 @@
 ---
-title: "Sample Partner Lead Form"
-description: "This page contains information about the Partner Lead Form and a sample script for review."
+title: "Shared Partner Forms"
+description: "This page contains information about the Partner Lead Form for affiliates, and Partner deal registration form for resellers"
 lead: "A sample Partner Lead form with a description of how it works."
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
@@ -120,3 +120,10 @@ You can use this ugly embedded form to test this process. This uses the default 
 <input type="submit" name="submit">
 
 </form>
+
+
+## Partner Deal Registration Form
+
+Deal registration for Resellers works much the same as affiliates, except that it collects more data and kicks off a process in Salesforce to automatically convert the lead and assign for Sales Operations review.
+
+For more information on the Reseller process flow, visit [the Reseller and Affiliate deal process](https://developer.salesforce.com/docs/atlas.en-us.object_reference.meta/object_reference/sforce_api_objects_partner.htm)
