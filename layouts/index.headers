@@ -1,7 +1,7 @@
 /*
   X-Content-Type-Options: nosniff
   X-XSS-Protection: 1; mode=block
-  Content-Security-Policy: default-src 'none'; manifest-src 'self'; connect-src 'self'; font-src 'self'; img-src 'self'; script-src 'self' https://cdn.jsdelivr.net ; style-src 'self' ; script-src-elem 'self' https://cdn.jsdelivr.net ; 
+  Content-Security-Policy: default-src 'none'; manifest-src 'self'; connect-src 'self'; font-src 'self'; img-src 'self'; script-src 'self' https://cdn.jsdelivr.net ; style-src 'self' 'unsafe-inline' ; script-src-elem 'self' https://cdn.jsdelivr.net ; 
   X-Frame-Options: SAMEORIGIN
   Referrer-Policy: strict-origin
 
